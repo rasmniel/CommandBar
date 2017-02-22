@@ -1,1 +1,0 @@
-CommandBar is an addon for offsetting ability presses into macros with scriptet sequences.
