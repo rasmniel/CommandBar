@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: CommandBar
+## Author: Rasmus Nielsen
+## Version: 1
+## eMail: rasmniel@gmail.com
+## URL: #
+## Notes: Command Bar
+CommandBar\CommandBar.lua
