@@ -5,4 +5,4 @@
 ## eMail: rasmniel@gmail.com
 ## URL: #
 ## Notes: Command Bar
-CommandBar\CommandBar.lua
+CommandBar.lua
